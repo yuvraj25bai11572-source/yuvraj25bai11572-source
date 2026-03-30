@@ -1,9 +1,9 @@
 ## Hi there 👋
-NAME: YUVRAJ SIGNH
-ACADEMIC YEAR:2025 TO 2026
-BRANCH: CSE(AIML)
-I'M CURRENTLY LEARNING PYTHON 
-HOW TO REACH ME: www.linkedin.com/in/yuvraj-singh-8672023b2
+- NAME: YUVRAJ SIGNH
+- ACADEMIC YEAR:2025 TO 2026
+- BRANCH: CSE(AIML)
+- I'M CURRENTLY LEARNING PYTHON 
+- HOW TO REACH ME: www.linkedin.com/in/yuvraj-singh-8672023b2
 
 <!--
 **yuvraj25bai11572-source/yuvraj25bai11572-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
